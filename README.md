@@ -1,4 +1,4 @@
-# PythonDatabseVisualizer
+# PythonDatabaseVisualizer
 This is a database visualizer based on pandas and matplotlib
 
 ## <strong>Step 1:</strong> Setting Up Your Project Environment
