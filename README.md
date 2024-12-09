@@ -1,4 +1,4 @@
-# PythonDatabseVisualizer
+# PythonDatabaseVisualizer
 This is a database visualizer based on pandas and matplotlib
 
 ## <strong>Step 1:</strong> Setting Up Your Project Environment
@@ -27,14 +27,14 @@ python -m venv venv  # Create the virtual environment
 <br><br>
 * <strong>Activate the Virtual Environment:</strong>
 <br>
-    * On Windows:
-    ``` bash
-    venv\Scripts\activate
-    ```
-    * On macOS/Linux:
-    ```bash
-    source venv/bin/activate
-    ```
+* On Windows:
+ ```bash
+venv\Scripts\activate
+```
+* On macOS/Linux:
+```bash
+source venv/bin/activate
+```
 * <strong>Install Required Libraries:</strong> You'll need a few libraries to handle SQLite and data visualization:
 <br><br>
 ```bash
